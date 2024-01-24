@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "python-poetry-init"
+version = "0.1.0"
+description = "Introductory guide to python-poetry."
+authors = ["Sumit Guha <sumit03guha@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+web3 = "^6.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
