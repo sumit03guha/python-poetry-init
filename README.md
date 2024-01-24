@@ -1,6 +1,6 @@
 # Python Poetry Init Project
 
-This project demonstrates the use of Poetry for managing Python dependencies and packaging. It includes an example application managed with Poetry, along with documentation on how to use Poetry and the advantages it offers.\
+This project demonstrates the use of Poetry for managing Python dependencies and packaging. It includes an example application managed with Poetry, along with documentation on how to use Poetry and the advantages it offers.
 
 **Go to [init_poetry.md](./init_poetry.md) to setup and start using poetry.**
 
@@ -23,14 +23,14 @@ python-poetry-init/
 
 ## Getting Started
 
-To get started with this project, you need to have Poetry installed on your system. You can find the installation instructions in `init_poetry.md`.
+To get started with this project, you need to have Poetry installed on your system. You can find the installation instructions in [init_poetry.md](./init_poetry.md).
 
 ### Installation
 
 1. Clone this repository:
 
    ```shell
-   git clone https://github.com/your-username/python-poetry-init.git
+   git clone https://github.com/sumit03guha/python-poetry-init
    ```
 
 2. Navigate to the project directory:
